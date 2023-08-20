@@ -68,7 +68,7 @@ export default Home = ({navigation}) => {
         {/* Titles */}
         <View style={styles.titlesWrapper}>
           <Text style={styles.titlesSubtitle}>Food</Text>
-          <Text style={styles.titlesTitle}>Delivery</Text>
+          <Text style={styles.titlesTitle}>Delivery home</Text>
         </View>
 
         {/* Search */}
